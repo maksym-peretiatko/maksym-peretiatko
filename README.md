@@ -11,7 +11,9 @@ Latest posts
 ![Cloud](https://img.shields.io/badge/Aquia-9cf?style=for-the-badge&logo=Aquia)
 ![Cloud](https://img.shields.io/badge/Ansible-090909?style=for-the-badge&logo=ansible)
 ![Cloud](https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform)
+![Cloud](https://img.shields.io/badge/Akamai-blue?style=for-the-badge&logo=Akamai)
 
-Follow me
+Follow me:
 
+[![Cloud](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/peretiatko_maksym)
 
