@@ -15,5 +15,6 @@ Latest posts
 
 Follow me:
 
-[![Cloud](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/peretiatko_maksym)
-
+[![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/maksym_peretiatko/)
+[![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/peretiatko_maksym)
+[![Cloud](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maksym-peretiatko-93b036175/) 
