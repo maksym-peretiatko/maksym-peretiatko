@@ -1,8 +1,6 @@
-Hader
-
 I am a DevOps engineer and teacher 
+My role is System Owner
 
-Latest posts
 
 ### Technologies and tools
 ![Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=gcp)
